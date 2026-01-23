@@ -22,19 +22,30 @@ Maîtrisez React, ses concepts clés et la création de composants avec JSX/TSX.
 Créez des applications web modernes avec Next.js : routing, SSR, SSG, API routes et plus encore.
 - [Accéder au Module 4](./module-4-nextjs/)
 
+## 📚 Guide Pédagogique
+
+**[→ Consultez le Guide Pédagogique Complet](./GUIDE-PEDAGOGIQUE.md)**
+
+Ce cours utilise une méthodologie unique qui explique **POURQUOI**, **COMMENT** et **QUAND** utiliser chaque concept. Chaque code est commenté pour expliquer :
+- ✅ Les raisons d'existence du concept
+- ✅ Les mécanismes internes
+- ✅ Les cas d'usage appropriés
+- ✅ Les pièges à éviter
+
 ## Comment Utiliser ce Cours
 
 Chaque module contient :
-- **Des séances théoriques** : Explications détaillées des concepts
+- **Des séances théoriques** : Explications détaillées avec POURQUOI/COMMENT/QUAND
 - **Des exercices pratiques** : Code à compléter pour mettre en pratique
-- **Des corrections** : Solutions détaillées pour chaque exercice
+- **Des corrections** : Solutions détaillées avec explications
 
 ### Méthode d'apprentissage recommandée :
 
-1. Lisez attentivement la théorie de chaque séance
-2. Tentez de compléter les exercices par vous-même
-3. Comparez votre solution avec la correction
-4. Pratiquez jusqu'à maîtriser le concept
+1. **Lisez le [Guide Pédagogique](./GUIDE-PEDAGOGIQUE.md)** pour comprendre la méthodologie
+2. **Lisez attentivement** la théorie de chaque séance (ne sautez pas les commentaires !)
+3. **Tentez les exercices** par vous-même sans regarder la correction
+4. **Comparez** votre solution avec la correction commentée
+5. **Pratiquez** jusqu'à maîtriser le concept dans vos propres projets
 
 ## Prérequis
 
